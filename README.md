@@ -1,2 +1,4 @@
-# lighthouse-labs-callbacks-breakout
-A Lighthouse Labs "Callbacks" breakout
+# Lighthouse Labs | Callbacks Breakout
+
+* [ ] Review
+* [ ] Examples
